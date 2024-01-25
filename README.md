@@ -1,4 +1,4 @@
-#CVFormatting.
+CVFormatting.
 
 In this folder, you'll find three distinct documents. 
 
