@@ -1,0 +1,32 @@
+{
+    "intro": {
+        "position": ,
+        "personName":  ,
+        "skills":        ,
+        "ans":           ,
+	"competence":     ,
+	"tech_skills":    ,
+	"formation":      ,
+	"langue":        ,
+
+
+
+    "jobs": [
+        {
+"nom":              ,
+"startDate":        ,
+"endDate" :         ,
+"position" :        ,
+"sujet":            ,
+"role" :            ,
+"durée" :           ,
+"contexte" :        ,
+"description":      ,
+"méthodologie" :    ,
+"équipe" :          ,
+"missions":         ,
+"environnement":    
+      }
+    ]
+}
+
